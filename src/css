@@ -1,3 +1,6 @@
 body {
   background: yellow;
 }
+#pastry {
+  text-align: center;
+}
