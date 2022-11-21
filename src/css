@@ -4,6 +4,7 @@ body {
 #pastry {
   text-align: center;
   margin-top: 50px;
+  font-family: "Dancing Script", cursive;
 }
 p {
   width: 500px;
